@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "DIN Next W01 Regular";
+  src: url("./assets/fonts/1daa609fdca8da38e5bcbb12c2a987db.woff"); /* IE9*/
+}
+body {
+  font-family: "DIN Next W01 Regular" !important;
+  font-size: 1em;
+  font-style: normal;
+  margin: 0px;
+}

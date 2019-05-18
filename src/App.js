@@ -1,7 +1,7 @@
 import React from "react";
-
+import Home from "./container/Home";
 function App() {
-  return <div className="App">oi</div>;
+  return <Home />;
 }
 
 export default App;
